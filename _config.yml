@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "MH Naderi"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "Graduate Student in Computer Science<br><span style='display: inline-flex; justify-content: left; align-items: center; gap: 10px; margin-top: 10px; margin-bottom: 10px;'><a href='https://www.yorku.ca' style='width:20%; height:auto;'><img src='/assets/images/yorku.png'></a><a href='https://aut.ac.ir/en' style='width:30%; height:auto;'><img src='/assets/images/aut_white.png'></a></span>"
+  avatar           : "/assets/images/avatar.png"
+  bio              : "MSc in Computer Science<br><span style='display: inline-flex; justify-content: left; align-items: center; gap: 10px; margin-top: 10px; margin-bottom: 10px;'><a href='https://www.yorku.ca' style='width:20%; height:auto;'><img src='/assets/images/yorku.png'></a><a href='https://aut.ac.ir/en' style='width:30%; height:auto;'><img src='/assets/images/aut_white.png'></a></span>"
   location         : "Toronto, Canada"
   email            : "mhnaderi99@gmail.com"
   links:
