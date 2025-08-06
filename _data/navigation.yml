@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "Research"
+    url: "#research"
+  - title: "Projects"
+    url: "#projects"
+  - title: "Teaching"
+    url: "#teaching"
   - title: "CV"
-    url: assets/files/CV_Naderi.pdf
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: "#cv"
+  - title: "Contact"
+    url: "#contact"
+  - title: "About"
+    url: "#about"

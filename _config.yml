@@ -19,14 +19,14 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Mohammadhossein Naderi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Mohammadhossein Naderi"
-description              : "Resume"
+name                     : "MH Naderi"
+description              : "Naderi's Personal Website"
 url                      : "https://mhnaderi99.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mhnaderi99/mhnaderi99.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_cropped.png" # path of logo image, e.g. "/assets/images/logo.png"
-masthead_title           : "MH Naderi" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Resume" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 heading_anchors          : false
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammadhossein Naderi"
+  name             : "MH Naderi"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Graduate Student in Computer Science<br><span style='display: inline-flex; justify-content: left; align-items: center; gap: 10px; margin-top: 10px; margin-bottom: 10px;'><a href='https://www.yorku.ca' style='width:20%; height:auto;'><img src='/assets/images/yorku.png'></a><a href='https://aut.ac.ir/en' style='width:30%; height:auto;'><img src='/assets/images/aut_white.png'></a></span>"
   location         : "Toronto, Canada"
