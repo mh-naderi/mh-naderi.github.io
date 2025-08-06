@@ -22,36 +22,43 @@ Here are my professional experiences:
 
 
   <ul style="list-style-type: none; padding: 0;">
-  <li style="margin-bottom: 1.5em;">
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-      <span>
-        <strong>Full-stack Developer</strong>, <a href="https://www.fanaptelecom.ir/" target="_blank">FANAP Telecom</a><br>
-        Implementation and maintainance of OSS and BSS software services used in the telecommunication industry.<br>
-        <em>Technologies:</em> Java, Spring, AngularJS, MySQL
-      </span>
-      <span style="white-space: nowrap; margin-left: 1em; text-align: right;">Dec 2020 – Jun 2021</span>
+  <li style="margin-bottom: 1.8em;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+      <div>
+        <strong>Full-stack Developer</strong>, <a href="https://www.fanaptelecom.ir/" target="_blank">FANAP Telecom</a>
+      </div>
+      <div style="white-space: nowrap; margin-left: 1em; text-align: right;">Dec 2020 – Jun 2021</div>
+    </div>
+    <div style="margin-top: 0.2em;">
+      Implementation and maintainance of OSS and BSS software services used in the telecommunication industry.<br>
+      <em>Technologies:</em> Java, Spring, AngularJS, MySQL
     </div>
   </li>
 
-  <li style="margin-bottom: 1.5em;">
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-      <span>
-        <strong>Data Science Intern</strong>, <a href="https://hesaba.co/" target="_blank">Hesaba</a><br>
-        Learned the fundamentals of data science, data analytics, and data visualization<br>
-        <em>Technologies:</em> R, dplyr, Sparklyr, ggplot2
-      </span>
-      <span style="white-space: nowrap; margin-left: 1em; text-align: right;">Sep 2020 – Nov 2020</span>
+<li style="margin-bottom: 1.8em;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+      <div>
+        <strong>Data Science Intern</strong>, <a href="https://jobs.hesaba.co/" target="_blank">Hesaba</a>
+      </div>
+      <div style="white-space: nowrap; margin-left: 1em; text-align: right;">Sep 2020 – Nov 2020</div>
+    </div>
+    <div style="margin-top: 0.2em;">
+      Learned the fundamentals of data science, data analytics, and data visualization<br>
+      <em>Technologies:</em> R, dplyr, Sparklyr, ggplot2
     </div>
   </li>
 
-  <li style="margin-bottom: 1.5em;">
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-      <span>
-        <strong>QA Engineering Intern</strong>, <a href="https://landings.pinket.com/taste-of-pinket/" target="_blank">Pinket</a><br>
-        Learned the fundamentals of QA engineering and helped test mobile app features.<br>
-        <em>Technologies:</em> Java, Appium, Selenium, Jenkins, Gradle
-      </span>
-      <span style="white-space: nowrap; margin-left: 1em; text-align: right;">Jun 2020 – Sep 2020</span>
+
+<li style="margin-bottom: 1.8em;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap;">
+      <div>
+        <strong>QA Engineering Intern</strong>, <a href="https://pinket.com/landing" target="_blank">Pinket</a>
+      </div>
+      <div style="white-space: nowrap; margin-left: 1em; text-align: right;">Jun 2020 – Sep 2020</div>
+    </div>
+    <div style="margin-top: 0.2em;">
+      Learned the fundamentals of QA engineering and helped test mobile app features.<br>
+      <em>Technologies:</em> Java, Appium, Selenium, Jenkins, Gradle
     </div>
   </li>
 </ul>
