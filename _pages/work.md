@@ -1,7 +1,7 @@
 ---
 title: "Work Experience"
 layout: single
-permalink: /experience/
+permalink: /work/
 author_profile: true
 classes: wide
 ---

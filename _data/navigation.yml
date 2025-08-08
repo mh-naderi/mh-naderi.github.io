@@ -1,14 +1,14 @@
 # main links
 main:
   - title: "Experience"
-    url: "/experience"
-  - title: "Projects"
-    url: "/projects"
+    url: "/work"
   - title: "Research"
     url: "/research"
+  - title: "Projects"
+    url: "/projects"
   - title: "Teaching"
     url: "/teaching"
   - title: "CV"
     url: "/assets/files/CV_Naderi.pdf"
   - title: "About"
-    url: "/about"
+    url: "#about"
