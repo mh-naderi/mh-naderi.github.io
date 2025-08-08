@@ -72,8 +72,8 @@ Here are some of the projects I've worked on:
   <div class="project-card">
     <img src="https://github.com/pacslab/adapTrain/raw/main/docs/adaptrain-logo.webp" alt="AdapTrain">
     <div class="project-card-content">
-      <h3><a href="https://github.com/pacslab/adapTrain">AdapTrain</a></h3>
-      <p>This is a short description of the project. It explains what the repo is about in a few sentences.</p>
+      <h3><a href="https://github.com/mhnaderi99/adaptive-ist">AdapTrain</a></h3>
+      <p>An adaptive lightweight framework for heterogeneity-aware independent subnet training (IST)</p>
     </div>
   </div>
 
@@ -81,7 +81,7 @@ Here are some of the projects I've worked on:
     <img src="/assets/images/projects/stage.png" alt="Stage">
     <div class="project-card-content">
       <h3><a href="https://github.com/mhnaderi99/Stage">Stage</a></h3>
-      <p>This is another project you want to showcase, with a description and GitHub link.</p>
+      <p>An Android social platform for movie and series enthusiasts written in Kotlin</p>
     </div>
   </div>
 
@@ -89,7 +89,7 @@ Here are some of the projects I've worked on:
     <img src="/assets/images/projects/library.png" alt="Library Management System">
     <div class="project-card-content">
       <h3><a href="https://github.com/mhnaderi99/LibraryManagementSystem">Library Management System</a></h3>
-      <p>This is another project you want to showcase, with a description and GitHub link.</p>
+      <p>A backend for managing library operations using ExpressJS and PostgreSQL.</p>
     </div>
   </div>
 
@@ -97,7 +97,7 @@ Here are some of the projects I've worked on:
     <img src="/assets/images/projects/shop.png" alt="Online Shop">
     <div class="project-card-content">
       <h3><a href="https://github.com/mhnaderi99/online-shop">Online Shop</a></h3>
-      <p>This is another project you want to showcase, with a description and GitHub link.</p>
+      <p>A full-stack e-commerce platform with product browsing, cart, and checkout features.</p>
     </div>
   </div>
 
@@ -105,7 +105,7 @@ Here are some of the projects I've worked on:
     <img src="/assets/images/projects/jtanks.png" alt="JTanks">
     <div class="project-card-content">
       <h3><a href="https://github.com/mhnaderi99/jtanks">JTanks</a></h3>
-      <p>This is another project you want to showcase, with a description and GitHub link.</p>
+      <p>A multiplayer 2D tank battle game written in Java.</p>
     </div>
   </div>
 
@@ -113,7 +113,7 @@ Here are some of the projects I've worked on:
     <img src="/assets/images/projects/search-engine.png" alt="Search Engine">
     <div class="project-card-content">
       <h3><a href="https://github.com/mhnaderi99/search-engine-c">C-earch Engine</a></h3>
-      <p>This is another project you want to showcase, with a description and GitHub link.</p>
+      <p>A query processing tool for searching logical term combinations across text files written in C.</p>
     </div>
   </div>
   <!-- Add more cards as needed -->
