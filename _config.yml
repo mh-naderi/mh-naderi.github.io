@@ -20,7 +20,7 @@ title                    : "Mohammadhossein Naderi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MH Naderi"
-description              : "Resume"
+description              : "Distributed ML + Systems — research, projects, and CV."
 url                      : "https://mh-naderi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mh-naderi/mh-naderi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

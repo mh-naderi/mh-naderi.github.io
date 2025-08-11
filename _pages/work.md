@@ -1,5 +1,6 @@
 ---
 title: "Work Experience"
+description: "Professional work expereince, software developer, data scientist, QA engineer"
 layout: single
 permalink: /work/
 author_profile: true

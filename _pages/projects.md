@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+description: "Selected projects in distributed ML systems, apps, and games."
 layout: single
 permalink: /projects/
 author_profile: true

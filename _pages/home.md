@@ -1,5 +1,6 @@
 ---
 title: ""
+description: "About me, bio, expertise, interests, background"
 permalink: /
 layout: single
 author_profile: true

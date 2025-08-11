@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Teaching expereince, TA, courses, rolls."
 layout: single
 permalink: /teaching/
 author_profile: true
