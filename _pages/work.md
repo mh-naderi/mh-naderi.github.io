@@ -48,7 +48,7 @@ Here are my professional experiences:
       <img src="/assets/images/company-logos/hesaba.png" alt="Hesaba Logo" style="height: 64px; width: auto;">
       <div>
         <strong>Data Science Intern</strong>, 
-        <a href="https://jobs.hesaba.co/" target="_blank">Pinket</a>
+        <a href="https://jobs.hesaba.co/" target="_blank">Hesaba</a>
       </div>
     </div>
     <div style="white-space: nowrap; margin-left: 1em; text-align: right;">Sep 2020 – Nov 2020</div>
