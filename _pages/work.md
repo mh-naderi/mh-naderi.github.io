@@ -35,7 +35,7 @@ Here are my professional experiences:
     <div style="white-space: nowrap; margin-left: 1em; text-align: right;">Dec 2020 – Jun 2021</div>
   </div>
   <div style="margin-top: 0.2em;">
-    Implementation and maintainance of OSS and BSS software services used in the telecommunication industry.<br>
+    Implementation and maintenance of OSS and BSS software services used in the telecommunications industry.<br>
     <em>Technologies:</em> Java, Spring, AngularJS, MySQL
   </div>
 </li>
